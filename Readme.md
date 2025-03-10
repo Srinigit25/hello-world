@@ -8,7 +8,7 @@ Making Changes on Remote Git Hub to validate the PULL keyword
 <table>
   <tr>
     <td>
-  <B> Checking for Bold</B>
+  <B> Checking for Bold Here </B>
     </td>
   </tr>
 </table>
